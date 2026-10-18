@@ -11945,9 +11945,6 @@ Search
                         thumbnail = i.thumbnail.thumbnails.slice(-1)[0].url;
                         videoTime = i.lengthText.simpleText;
 					}
-					if(i.thumbnail.thumbnails[3]){
-						thumbnail = i.thumbnail.thumbnails[3].url;
-					}
 					let container = $("#c3-content-items");
 					let newElem = document.createElement("div");
 					newElem.classList = "channels-content-item yt-shelf-grid-item";
