@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         StarTube Legacy
+// @name         StarTube Legacy (rob patch)
 // @namespace    http://tampermonkey.net/
 // @version      2.3.3.1
 // @description  More layouts and customization options for V3
@@ -12,8 +12,8 @@
 // @grant        GM_deleteValue
 // @grant        GM_registerMenuCommand
 // @license MIT
-// @downloadURL https://github.com/lightbeam24/StarTube/raw/refs/heads/main/StarTube%20Legacy.user.js
-// @updateURL https://github.com/lightbeam24/StarTube/raw/refs/heads/main/StarTube%20Legacy.user.js
+// @downloadURL https://github.com/rob9315/StarTube/raw/refs/heads/master/StarTube%20Legacy.user.js
+// @updateURL https://github.com/rob9315/StarTube/raw/refs/heads/master/StarTube%20Legacy.user.js
 // ==/UserScript==
 var globalDataPoints = {
 "currWatchData":{}

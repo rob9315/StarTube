@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         StarTube Beta
+// @name         StarTube Beta (rob patch)
 // @namespace    http://tampermonkey.net/
 // @version      2.7.0.10
 // @description  More layouts and customization options for V3
@@ -12,8 +12,8 @@
 // @grant        GM_deleteValue
 // @grant        GM_registerMenuCommand
 // @license MIT
-// @downloadURL https://github.com/lightbeam24/StarTube/raw/refs/heads/main/StarTube%20Beta.user.js
-// @updateURL https://github.com/lightbeam24/StarTube/raw/refs/heads/main/StarTube%20Beta.user.js
+// @downloadURL https://github.com/rob9315/StarTube/raw/refs/heads/master/StarTube%20Beta.user.js
+// @updateURL https://github.com/rob9315/StarTube/raw/refs/heads/master/StarTube%20Beta.user.js
 // ==/UserScript==
 var globalDataPoints = {
 "currWatchData":{}
